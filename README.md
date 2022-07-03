@@ -8,3 +8,5 @@ Objectives of this project
 - Introduction to react router
 - Introduction to implementing bootstrap to react apps
 - Insights to clean coding and best practices
+
+#Work in progress
