@@ -21,3 +21,6 @@ The application:
 - "Add To Cart" button" will display Increase/Decrease visuals to modify cart.
 - "Remove" button will remove current cart quantity and hide the visuals.
 - Clicking on the cart icon will show the Off canvas UI of the shopping cart.
+
+# View application on browser, click link below (Somehow the images doesn't load, but the functions are working)
+# https://Techlearner93.github.io/react-ts-shopping-cart
