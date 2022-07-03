@@ -6,6 +6,7 @@ Objectives of this project
 
 - Introduction to typescript
 - Introduction to react router
+- Introduction to custom hooks
 - Introduction to implementing bootstrap to react apps
 - Insights to clean coding and best practices
 
